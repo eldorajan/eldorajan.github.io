@@ -1,7 +1,0 @@
-- layout: top-middle
-  name: Webdriver Framework
-  github: eldorajan/AutoWebDriver
-  quote: >
-    Webdriver Automation Framework on Java
-  description: | # this will include new lines to allow paragraphs
-    Webdriver Automation Framework on Java with pageobject/pagefactory model
